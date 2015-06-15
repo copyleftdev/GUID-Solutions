@@ -1,0 +1,6 @@
+Z:\Projects\ValidatePigLatin\ValidatePigLatin\bin\Debug\ValidatePigLatin.exe.config
+Z:\Projects\ValidatePigLatin\ValidatePigLatin\bin\Debug\ValidatePigLatin.exe
+Z:\Projects\ValidatePigLatin\ValidatePigLatin\bin\Debug\ValidatePigLatin.pdb
+Z:\Projects\ValidatePigLatin\ValidatePigLatin\obj\Debug\ValidatePigLatin.csprojResolveAssemblyReference.cache
+Z:\Projects\ValidatePigLatin\ValidatePigLatin\obj\Debug\ValidatePigLatin.exe
+Z:\Projects\ValidatePigLatin\ValidatePigLatin\obj\Debug\ValidatePigLatin.pdb
