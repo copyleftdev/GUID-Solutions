@@ -17,7 +17,7 @@
 # Write a function to test your program, providing adequate variations of input to
 # properly test the algorithm.
 
-import string
+
 import unittest
 
 def isPalindrome(inputString):
@@ -37,7 +37,7 @@ def isPalindrome(inputString):
 
 
 
-    for punct in string.punctuation:
+    for punct in charExcludeList:
         if punct in charExcludeList:
             stripedSpaces = stripedSpaces.replace(punct,"")
 
