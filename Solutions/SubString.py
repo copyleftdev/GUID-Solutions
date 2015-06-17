@@ -2,7 +2,7 @@
 #author: Don Johnson
 #email: <dj@codetestcode.io>
 # -*- coding: utf-8 -*-
-import string
+
 
 def subStringSearch(key,source):
     charList = []
